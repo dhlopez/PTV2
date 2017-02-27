@@ -22,7 +22,7 @@ namespace PTLevelApp
             </head>
             <body>
             <h1>Xamarin.Forms</h1>
-            <p>The CSS and image are loaded from local files!</p>
+            <p>The HOME CSS and image are loaded from local files!</p>
             <img src='XamarinLogo.png'/>
             <p><a href=""local.html"">next page</a></p>
             </body>

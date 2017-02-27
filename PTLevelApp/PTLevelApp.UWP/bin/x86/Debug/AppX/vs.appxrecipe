@@ -28,13 +28,13 @@
     <AppXManifest Include="C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-27T18:45:15.723</Modified>
+      <Modified>2017-02-27T19:49:41.785</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.UWP\bin\x86\Debug\PTLevelApp.UWP.exe">
       <PackagePath>entrypoint\PTLevelApp.UWP.exe</PackagePath>
-      <Modified>2017-02-27T18:45:14.779</Modified>
+      <Modified>2017-02-27T19:49:41.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dlopez.CFAV\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -448,6 +448,14 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-23T03:11:12.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlopez.CFAV\.nuget\packages\Xam.Plugin.Connectivity\2.3.0\lib\UAP10\Plugin.Connectivity.Abstractions.dll">
+      <PackagePath>Plugin.Connectivity.Abstractions.dll</PackagePath>
+      <Modified>2017-01-07T02:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\dlopez.CFAV\.nuget\packages\Xam.Plugin.Connectivity\2.3.0\lib\UAP10\Plugin.Connectivity.dll">
+      <PackagePath>Plugin.Connectivity.dll</PackagePath>
+      <Modified>2017-01-07T02:42:52.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dlopez.CFAV\.nuget\packages\Xamarin.Forms\2.3.3.175\lib\uap10.0\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
       <Modified>2016-12-06T15:11:12.000</Modified>
@@ -466,7 +474,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\PTLevelApp.dll">
       <PackagePath>PTLevelApp.dll</PackagePath>
-      <Modified>2017-02-27T18:44:31.496</Modified>
+      <Modified>2017-02-27T19:49:40.161</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.UWP\default.css">
       <PackagePath>default.css</PackagePath>
@@ -537,11 +545,11 @@
     <AppxPackagedFile Include="C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-02-27T18:45:15.385</Modified>
+      <Modified>2017-02-27T19:44:09.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.UWP\bin\x86\Debug\Core\PTLevelApp.UWP.exe">
       <PackagePath>PTLevelApp.UWP.exe</PackagePath>
-      <Modified>2017-02-27T18:45:15.710</Modified>
+      <Modified>2017-02-27T19:49:41.771</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
