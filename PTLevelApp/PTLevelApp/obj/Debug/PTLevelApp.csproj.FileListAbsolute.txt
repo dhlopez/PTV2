@@ -1,0 +1,13 @@
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\PTLevelApp.dll
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\PTLevelApp.pdb
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\obj\Debug\PTLevelApp.csprojResolveAssemblyReference.cache
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\obj\Debug\PTLevelApp.dll
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\obj\Debug\PTLevelApp.pdb

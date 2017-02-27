@@ -1,0 +1,2 @@
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.UWP\PTLevelApp.UWP.csproj;x86
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\PTLevelApp.csproj;neutral
