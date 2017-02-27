@@ -1,5 +1,7 @@
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\PTLevelApp.Droid.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\FormsViewGroup.dll
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\Plugin.Connectivity.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
@@ -20,6 +22,7 @@ C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\PTLevelApp.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\System.Runtime.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\System.Collections.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\System.Threading.Tasks.dll
@@ -41,4 +44,4 @@ C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\System.Text.RegularExpressions.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\System.Resources.ResourceManager.dll
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll

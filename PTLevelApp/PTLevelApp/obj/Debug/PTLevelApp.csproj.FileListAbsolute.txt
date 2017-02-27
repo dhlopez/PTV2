@@ -18,3 +18,9 @@ C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\obj\Debug\
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\obj\Debug\PTLevelApp.MainPage.xaml.g.cs
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\obj\Debug\PTLevelApp.dll
 C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\obj\Debug\PTLevelApp.pdb
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\obj\Debug\PTLevelApp.dll.mdb
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\PTLevelApp.dll.mdb
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\obj\Debug\PTLevelApp.dll.mdb
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\PTLevelApp.dll.mdb
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\obj\Debug\PTLevelApp.dll.mdb
+C:\Users\dlopez.CFAV\Desktop\PTLevel\PTLevelApp\PTLevelApp\PTLevelApp\bin\Debug\PTLevelApp.dll.mdb

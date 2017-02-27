@@ -100,6 +100,8 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "PTLevelApp.Droid.dll" comes first in this list. */
 		"PTLevelApp.Droid.dll",
 		"FormsViewGroup.dll",
+		"Plugin.Connectivity.Abstractions.dll",
+		"Plugin.Connectivity.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Android.Support.v7.AppCompat.dll",
@@ -112,6 +114,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Xaml.dll",
 		"PTLevelApp.dll",
 		"System.Runtime.dll",
+		"System.Resources.ResourceManager.dll",
 		"System.Collections.dll",
 		"System.Diagnostics.Debug.dll",
 		"System.Threading.Tasks.dll",
@@ -130,7 +133,7 @@ class MonoPackageManager_Resources {
 		"System.Text.RegularExpressions.dll",
 		"System.Collections.Concurrent.dll",
 		"System.Runtime.InteropServices.dll",
-		"System.Resources.ResourceManager.dll",
+		"System.Diagnostics.Tools.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
